@@ -1,0 +1,6 @@
+build/
+.vscode/
+
+HelloTriangle/bin
+HelloTriangle/obj
+HelloTriangle/*.vcxproj*
